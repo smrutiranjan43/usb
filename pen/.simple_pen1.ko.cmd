@@ -1,0 +1,1 @@
+cmd_/home/arvind/Linuxdriver/BlockDriver/pen/simple_pen1.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.13.0-96-generic/scripts/module-common.lds --build-id  -o /home/arvind/Linuxdriver/BlockDriver/pen/simple_pen1.ko /home/arvind/Linuxdriver/BlockDriver/pen/simple_pen1.o /home/arvind/Linuxdriver/BlockDriver/pen/simple_pen1.mod.o
